@@ -1,0 +1,5 @@
+.env
+cikti/
+__pycache__/
+*.log
+paylasilanlar.json
